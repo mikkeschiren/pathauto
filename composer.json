@@ -1,5 +1,5 @@
 {
-  "name": "drupal/pathauto",
+  "name": "mikkeschiren/pathauto",
   "description": "Provides a generic set of views plugins a mechanism for modules to automatically generate aliases for the content they manage.",
   "type": "drupal-module",
   "license": "GPL-2.0+"
